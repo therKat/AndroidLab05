@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="fit_hau_weather_forecast">FIT HAU Weather Forecast</string>
+    <string name="weather_forecast_fit_hau">WEATHER FORECAST @FIT.HAU</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="enter_country_name">Enter country name</string>
+    <string name="get">GET</string>
+    <string name="faculty_of_information_technology_hau_2024">Faculty of Information Technology - HAU 2024</string>
+</resources>
